@@ -10,6 +10,8 @@ A **compact, tactile controller** with large **Next** / **Previous** buttons, a 
 
 ## 🧪 Proof of Concept — [M5StickC Plus](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit?srsltid=AfmBOooHba48_SrFj6H0c3zdABPBUifUaSECYs5Zb0maFQ8p4b6qMayU)
 
+![M5StickC-ProPresenterRemote.png](M5StickC-ProPresenterRemote.png)
+
 The first prototype uses the **M5StickC Plus**, with the following button layout:
 
 | Button | Function |
