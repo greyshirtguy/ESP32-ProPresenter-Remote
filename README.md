@@ -8,7 +8,7 @@ A **compact, tactile controller** with large **Next** / **Previous** buttons, a 
 
 ---
 
-## 🧪 Proof of Concept — *M5StickC Plus*
+## 🧪 Proof of Concept — [M5StickC Plus](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit?srsltid=AfmBOooHba48_SrFj6H0c3zdABPBUifUaSECYs5Zb0maFQ8p4b6qMayU)
 
 The first prototype uses the **M5StickC Plus**, with the following button layout:
 
@@ -17,6 +17,19 @@ The first prototype uses the **M5StickC Plus**, with the following button layout
 | **M5 Button** | ▶️ Next Slide |
 | **Action Button** | ◀️ Previous Slide |
 | **Power Button** (short press) | 1️⃣ Jump to first slide of active presentation |
+
+---
+
+## ⚙️ Setting up a **M5StickC Plus** as a simple ProPresenter Remote
+   
+If you have not setup a development environment for the M5StickC then you can learn all about it [here](https://github.com/Edinburgh-College-of-Art/m5stickc-plus-introduction?tab=readme-ov-file)   
+_FWIW - I personally used the [Arduino IDE](https://github.com/Edinburgh-College-of-Art/m5stickc-plus-introduction/blob/main/examples/Getting-Started/ArduinoIDE_Setup/README.md)_  
+
+Config is currently HARD CODED! _(Feel free to submit a PR to for a nice option to configure)_  
+Scroll to the USER CONFIG section at the top of M5StickCPlusProPresenterRemote.ino and edit the WiFi details and ProPresenter IP and PORT. Save and upload to your M5StickC Plus.
+
+
+NB: The screen layout is coded for the **M5StickC Plus** - If you have an old M5StickC you will need to update/fix the UI. 
 
 ---
 
