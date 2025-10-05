@@ -17,7 +17,7 @@ The first prototype uses the **M5StickC Plus**, with the following button layout
 | Button | Function |
 |:--------|:----------|
 | **M5 Button** | ▶️ Next Slide |
-| **Action Button** | ◀️ Previous Slide |
+| **B Button** | ◀️ Previous Slide |
 | **Power Button** (short press) | 1️⃣ Jump to first slide of active presentation |
 
 ---
